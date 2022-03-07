@@ -1,0 +1,53 @@
+.Header{
+    color: black;
+    background-color: #E5989B;
+    font-family:'Times New Roman';
+    font-size: 100px;
+    width: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.Education{
+   background-color: #b5838d;
+   text-align: center;
+}
+
+.Experience{
+    background-color: #b5838d;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.Skills{
+    background-color: #b5838d;
+    justify-content: center;
+    text-align: center;
+}
+   
+
+p{
+    color:black;
+    font-family:'Times New Roman';
+}
+
+body{
+    font-size: medium;
+    background: #ffcdb2;
+    font-family: 'Times New Roman';
+    color: black;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.row{
+    background-color: #FFB4A2;
+    border-radius: 10px;
+    text-align: center;
+    width: 100%;
+    margin: 10px;
+    justify-content: space-between;
+}
+  
